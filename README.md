@@ -5,7 +5,7 @@ RATATATA is a Python-based Remote Access Trojan (RAT) that uses C2 (Command and 
 ## Known Issues
 
 - The code contains some bugs, but it is still usable.
-- 
+  
 ## Screenshot
 
 ![RATATATA Screenshot](https://github.com/denizZz009/RATATATA---Python-Based-RAT/blob/main/Screenshot%202024-11-23%20162209.png)
