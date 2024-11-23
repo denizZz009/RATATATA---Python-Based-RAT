@@ -35,7 +35,7 @@ RATATATA supports the following commands:
 - `!gck` - Grabs Chrome passwords.
 - `!ghist` - Grabs browser history.
 - `!gaf` - Grabs AutoFill data.
-- `!beth` - Executes a bot in a thread.
+- `!beth` - Block Ethernet Connections on Victim.
 - `!sexec` - Executes a command as a service.
 - `!listcon` - Lists active connections.
 - `!ufile` - Uploads a file.
