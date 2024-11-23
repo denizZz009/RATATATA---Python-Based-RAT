@@ -18,13 +18,13 @@ RATATATA supports the following commands:
 - `!admincheck` - Checks for administrator privileges.
 - `!listprocess` - Lists running processes.
 - `!takess` - Takes a screenshot.
-- `!disreg` - Disregards certain configurations.
-- `!distm` - Executes a distributed message.
-- `!gwpass` - Grabs Windows credentials.
+- `!disreg` - Disable regedit.
+- `!distm` - Executes a task manager.
+- `!gwpass` - Grabs Wifi credentials.
 - `!kproc` - Kills a process.
-- `!rmvstup` - Removes a specific input.
+- `!rmvstup` - Removes a Startup program.
 - `!liststup` - Lists startup items.
-- `!dreg` - Deletes a registry entry.
+- `!dreg` - Download a regedit.
 - `!cndesk` - Changes the desktop wallpaper.
 - `!switchdesk` - Switches between desktops.
 - `!listdesks` - Lists available desktops.
@@ -32,7 +32,7 @@ RATATATA supports the following commands:
 - `!ows` - Opens Windows System.
 - `!gtoken` - Retrieves a token.
 - `!gpass` - Grabs passwords.
-- `!gck` - Grabs Chrome passwords.
+- `!gck` - Grabs Cookies.
 - `!ghist` - Grabs browser history.
 - `!gaf` - Grabs AutoFill data.
 - `!beth` - Block Ethernet Connections on Victim.
