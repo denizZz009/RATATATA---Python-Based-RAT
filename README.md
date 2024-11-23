@@ -1,6 +1,6 @@
 # RATATATA - Python-Based RAT
 
-RATATATA is a Python-based Remote Access Trojan (RAT) that uses C2 (Command and Control) for simple Discord-based usage with specific features.
+RATATATA is a Python-based Remote Access Trojan (RAT) that uses C2 (Command and Control) for simple Discord-based usage with specific features.Like instant speed ransomware etc.
 
 ## Known Issues
 
