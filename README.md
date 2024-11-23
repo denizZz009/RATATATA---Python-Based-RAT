@@ -44,8 +44,8 @@ RATATATA supports the following commands:
 - `!chcksrv` - Checks services.
 - `!chckfile` - Checks a file for integrity.
 - `!listdrives` - Lists available drives.
-- `!startrnsm` - Starts the Remote Network Service Manager.
-- `!rnsmkey` - Retrieves the RNSM key.
+- `!startrnsm` - Starts the Ransomware.
+- `!rnsmkey` - Retrieves the Ransomware key.
 - `!usb` - Lists connected USB devices.
 - `!wllppr` - Changes the wallpaper (supports raw link).
 - `!binput` - Sends a keyboard input.
