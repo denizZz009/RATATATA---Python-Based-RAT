@@ -50,6 +50,7 @@ RATATATA supports the following commands:
 - `!wllppr` - Changes the wallpaper (supports raw link).
 - `!binput` - Sends a keyboard input.
 - `!ubinput` - Sends a user-based keyboard input.
+- And more commands.. You can check all commands on 'chefRecipe.py'.
 
 ---
 
